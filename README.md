@@ -16,8 +16,10 @@
 ### Commit changes:
 - git commit -m "Comment"
 
-### Create main branch:
-- git branch -M main
+### Branch Commands:
+- git branch -M main [create a branch]
+- git branch -r [find existing remote branches]
+- git branch -l [find existing local branches]
 
 ### Add repository to github:
 - git remote add origin https://github.com/<github.username>/<github.repo>.git
