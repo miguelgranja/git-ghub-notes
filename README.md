@@ -8,7 +8,7 @@
 - git init reponame
 
 ### Add stuff to the commit you're gonna make:
-- git add < . || somefile.extention
+- git add . || somefile.extention
 
 ### Commit changes:
 - git commit -m "Comment"
