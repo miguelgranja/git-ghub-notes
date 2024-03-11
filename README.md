@@ -7,6 +7,9 @@
 ### Create a local repo:
 - git init
 
+### Create a .gitignore file:
+- touch .gitignore
+
 ### Delete a local repo:
 - rmdir .git -force
 
