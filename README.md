@@ -7,6 +7,9 @@
 ### Create a local repo:
 - git init
 
+### Delete a local repo:
+- rmdir .\.git\ -force
+
 ### Add stuff to the commit you're gonna make:
 - git add . || somefile.extention
 
