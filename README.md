@@ -1,4 +1,4 @@
-#A github repository dedicated to my git/github notes
+## A github repository dedicated to my git/github notes
 
 Authenticate yourself:
 git config --global user.email <"you@example.com">
