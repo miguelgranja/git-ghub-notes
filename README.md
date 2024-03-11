@@ -5,7 +5,7 @@
 - git config --global user.name "Your Name"
 
 ### Create a local repo:
-- git init reponame
+- git init
 
 ### Add stuff to the commit you're gonna make:
 - git add . || somefile.extention
