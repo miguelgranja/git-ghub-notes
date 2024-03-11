@@ -17,7 +17,7 @@
 - git branch -M <main>
 
 ### Add repository to github:
-- git remote add origin https://github.com/<github.username>/<github-repo>.git
+- git remote add origin https://github.com/<github.username>/<github.repo>.git
 
 ### Push changes to github branch:
 - git push -u origin <main>
