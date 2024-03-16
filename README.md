@@ -29,3 +29,6 @@
 
 ### Push changes to github branch:
 - git push -u origin main
+
+### AsciiDoc Cheat sheet for github
+- https://gist.github.com/powerman/d56b2675dfed38deb298
